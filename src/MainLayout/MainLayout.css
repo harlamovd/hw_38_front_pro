@@ -1,0 +1,26 @@
+.wrapper_todo {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 30px;
+    margin: 10px;
+    width: 700px;
+}
+.todo_completed {
+    background-color: floralwhite;
+    border-radius: 10px;
+    width: 300px;
+    padding: 10px;
+
+}
+.todo_not_completed {
+    background-color: floralwhite;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.todo_title {
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    margin: 0;
+}
